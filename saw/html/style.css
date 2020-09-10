@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: block;
+    height: 100vh;
+    background-color: black;
+    overflow: hidden;
+}
+
+#sample_video {
+    position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
